@@ -6,7 +6,7 @@
 /*   By: sako <marvin@42.fr>                        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/11/07 17:42:22 by sako              #+#    #+#             */
-/*   Updated: 2019/11/22 19:55:09 by sako             ###   ########.fr       */
+/*   Updated: 2019/11/25 15:38:48 by sako             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -44,7 +44,13 @@ int		to_little(int bits32)
 	return (ret);
 }
 
-int		check_little_endian()
+/*
+**	Check whether system is using little endian or big endian.
+**	return 0 if it is big endian
+**	return 1 if it is little endian
+*/
+
+int		check_little_endian(void)
 {
 	int		temp;
 	char	*c;
