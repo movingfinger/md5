@@ -6,7 +6,7 @@
 /*   By: sako <sako@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/04/29 10:24:29 by sako              #+#    #+#             */
-/*   Updated: 2019/11/25 19:40:53 by sako             ###   ########.fr       */
+/*   Updated: 2019/10/04 19:35:59 by sako             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -23,6 +23,12 @@
 
 # define IS_UPPER(x) ((x >= 'A' && x <= 'Z') ? 1 : 0)
 # define IS_LOWER(x) ((x >= 'a' && x <= 'z') ? 1 : 0)
+# define BUFF_SIZE 8
+# define FD_SIZE 1024
+
+/*
+**	structures
+*/
 
 typedef struct		s_list
 {
@@ -60,6 +66,7 @@ void				ft_putchar_fd(char c, int fd);
 void				ft_putchar(char c);
 void				ft_putendl_fd(char const *s, int fd);
 void				ft_putendl(char const *s);
+void				ft_puterror(char *s, int n);
 void				ft_putnbr_fd(int n, int fd);
 void				ft_putnbr(int n);
 void				ft_putstr_fd(char const *s, int fd);
@@ -103,6 +110,7 @@ char				*ft_strsub_new(char *s, unsigned int start, size_t len);
 char				*ft_strtrim(char const *s);
 int					ft_toupper(int c);
 int					ft_tolower(int c);
+int					get_next_line(const int fd, char **line);
 
 /*
 **	some helpful functions

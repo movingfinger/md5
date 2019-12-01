@@ -45,6 +45,8 @@ struct						s_md5
 	t_word					var_g;
 	t_word					endian;
 	t_word					temp[4];
+	t_byte					stdion;
+	t_word					fd;
 };
 
 /*
@@ -54,7 +56,7 @@ struct						s_md5
 int							to_big(int bits3i2);
 int							to_little(int bits32);
 int							check_little_endian();
-void						md5(char *str);
+void						ft_md5(char *str);
 void						md5_process(t_md5 *md5, t_byte data[]);
 void						calculate_f(t_md5 *md5, int i);
 void						calculate_g(t_md5 *md5, int i);

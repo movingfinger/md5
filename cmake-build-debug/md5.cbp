@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="md5"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="md5">
+				<Option output="/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/md5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/nfs/2019/s/sako/Desktop/cadet/try/md5/includes"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/Makefile&quot;  VERBOSE=1 md5"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="md5/fast">
+				<Option output="/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/md5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/nfs/2019/s/sako/Desktop/cadet/try/md5/includes"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/Makefile&quot;  VERBOSE=1 md5/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/includes/ft_ssl.h">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/includes/libft.h">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/check_num_length.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/count_words_in_str.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_atoi.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_bzero.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_ftoa.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_isalnum.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_isalpha.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_isascii.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_isdigit.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_isfloat.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_isint.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_isprint.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_itoa.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_itoa_base.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_lstadd.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_lstdel.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_lstdelone.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_lstiter.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_lstmap.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_lstnew.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_memalloc.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_memalloc_specific.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_memccpy.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_memchr.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_memcmp.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_memcpy.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_memdel.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_memmove.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_memset.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_pow.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_putchar.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_putchar_fd.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_putendl.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_putendl_fd.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_puterror.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_putnbr.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_putnbr_fd.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_putstr.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_putstr_fd.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strcat.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strchr.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strclr.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strcmp.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strcmp_index.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strcpy.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strdel.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strdup.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strequ.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_striter.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_striteri.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strjoin.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strjoin_free_end.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strjoin_free_front.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strjoin_new.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strlcat.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strlen.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strmap.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strmapi.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strncat.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strncmp.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strncpy.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strnequ.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strnew.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strnstr.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strrchr.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strsplit.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strstr.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strsub.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strtolower.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strtoupper.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strtrim.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_tolower.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_toupper.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/get_next_line.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/get_word_len.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/is_lower_letter.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/is_upper_letter.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/libft/is_whitespace.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/srcs/endian.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/srcs/ft_md5.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/srcs/ft_md5_dispatch.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/srcs/ft_md5_process.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/srcs/main.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -77,7 +77,7 @@ void	md5_init(t_md5 *md5)
 	md5->endian = check_little_endian();
 }
 
-void	md5(char *str)
+void	ft_md5(char *str)
 {
 	t_md5	md5;
 	int		i;
@@ -92,6 +92,5 @@ void	md5(char *str)
 		printf("%x\n", md5.state[i]);
 	i = -1;
 	while (++i < 16)
-//		ft_putstr(ft_itoa_base_signed((int)hash[i], 16));
-		printf("%x", hash[i]);
+		printf("%02x", hash[i]);
 }

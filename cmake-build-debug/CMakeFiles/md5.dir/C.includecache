@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../includes/ft_ssl.h
+libft.h
+../includes/libft.h
+
+../includes/libft.h
+unistd.h
+-
+stdlib.h
+-
+string.h
+-
+fcntl.h
+-
+
+/nfs/2019/s/sako/Desktop/cadet/try/md5/srcs/ft_md5.c
+ft_ssl.h
+/nfs/2019/s/sako/Desktop/cadet/try/md5/srcs/ft_ssl.h
+stdio.h
+/nfs/2019/s/sako/Desktop/cadet/try/md5/srcs/stdio.h
+

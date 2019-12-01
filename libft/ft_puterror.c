@@ -1,23 +1,19 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   main.c                                             :+:      :+:    :+:   */
+/*   ft_puterror.c                                      :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: sako <marvin@42.fr>                        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2019/11/05 23:21:59 by sako              #+#    #+#             */
-/*   Updated: 2019/11/25 16:25:17 by sako             ###   ########.fr       */
+/*   Created: 2019/10/08 15:02:38 by sako              #+#    #+#             */
+/*   Updated: 2019/10/08 15:10:42 by sako             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft_ssl.h"
+#include "libft.h"
 
-int		main(int ac, char **av)
+void	ft_puterror(char *s, int n)
 {
-	if (ac < 2)
-		ft_putendl("usage: ft_ssl command [command opts] [command args]");
-	else
-		ft_md5(av[1]);
-	return (0);
+	ft_putendl(s);
+	exit(n);
 }
-s
