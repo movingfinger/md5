@@ -85,6 +85,7 @@ static void		md5_sha_dec(t_md5 *ssl, char **av, int ac)
 	if (ssl->p || (!ssl->n_file && !ssl->s))
 	{
 		fake_gnl(&ssl->stdin, 0);
+		ft_printf("hear?\n");
 		if (ssl->p)
 			ft_printf("%s", ssl->stdin);
 		if (ft_strcmp(av[1], "sha256") == 0)

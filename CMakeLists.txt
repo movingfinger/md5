@@ -25,7 +25,6 @@ add_executable(md5
         ft_printf/srcs/ft_printfuncs.c
         ft_printf/srcs/ft_width_precision.c
         includes/ft_ssl.h
-        includes/libft.h
         libft/check_num_length.c
         libft/count_words_in_str.c
         libft/ft_atoi.c

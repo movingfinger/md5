@@ -6,11 +6,12 @@
 /*   By: sako <marvin@42.fr>                        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/09/03 22:40:53 by sako              #+#    #+#             */
-/*   Updated: 2019/09/03 22:41:22 by sako             ###   ########.fr       */
+/*   Updated: 2019/12/01 11:03:26 by sako             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "ft_printf.h"
+#include "libft.h"
 
 int		ft_printfunc_char(int count)
 {

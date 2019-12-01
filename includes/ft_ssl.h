@@ -14,6 +14,7 @@
 # define FT_SSL_H
 
 # include "libft.h"
+# include "ft_printf.h"
 
 /*
 **	macros
@@ -47,7 +48,7 @@ struct						s_md5
 	t_word					temp[4];
 	char					*stdin;
 	int						fd;
-	int					pars;
+	int						pars;
 	int 					i;
 	int 					n_file;
 	t_word					p;

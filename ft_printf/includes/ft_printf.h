@@ -6,7 +6,7 @@
 /*   By: sako <sako@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/07/11 10:23:39 by sako              #+#    #+#             */
-/*   Updated: 2019/07/28 01:25:30 by sako             ###   ########.fr       */
+/*   Updated: 2019/12/01 10:44:05 by sako             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -20,7 +20,6 @@
 # include <stdarg.h>
 # include <stdlib.h>
 # include <limits.h>
-# include "libft.h"
 
 /*
 **	define

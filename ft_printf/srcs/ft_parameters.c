@@ -6,11 +6,11 @@
 /*   By: sako <sako@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/07/24 23:13:50 by sako              #+#    #+#             */
-/*   Updated: 2019/07/29 03:51:59 by sako             ###   ########.fr       */
+/*   Updated: 2019/12/01 11:01:56 by sako             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft_printf.h"
+#include "libft.h"
 
 /*
 **	check if printf parameter has flag parts, {'-', '+', '#', '0', ' '},

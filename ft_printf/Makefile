@@ -10,11 +10,10 @@
 #                                                                              #
 # **************************************************************************** #
 
-NAME = ../libftprintf.a
+NAME = libftprintf.a
 
 DIRHDER = ./includes/
-DIRLIBFT = ../includes/
-DIRLIB = ../libft/
+DIRLIB = ./libft/
 DIRSRC = ./srcs/
 
 FLAG = -Wall -Wextra -Werror
@@ -22,7 +21,7 @@ FLAG = -Wall -Wextra -Werror
 all: $(NAME)
 
 $(NAME):
-	gcc -c $(DIRLIB)*.c $(DIRSRC)*.c -I $(DIRHDER) -I $(DIRLIBFT) $(FLAG)
+	gcc -c $(DIRLIB)*.c $(DIRSRC)*.c -I $(DIRHDER) $(FLAG)
 	ar rcs $(NAME) *.o
 
 clean:

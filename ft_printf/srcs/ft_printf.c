@@ -6,12 +6,11 @@
 /*   By: sako <sako@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/06/13 22:29:24 by sako              #+#    #+#             */
-/*   Updated: 2019/07/29 04:01:03 by sako             ###   ########.fr       */
+/*   Updated: 2019/12/01 11:02:38 by sako             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft_printf.h"
-#include "conversions.h"
+#include "libft.h"
 
 char	*ft_format(t_format *form, va_list args)
 {

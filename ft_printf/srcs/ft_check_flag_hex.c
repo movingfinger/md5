@@ -6,11 +6,11 @@
 /*   By: sako <marvin@42.fr>                        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/08/11 14:49:45 by sako              #+#    #+#             */
-/*   Updated: 2019/08/11 14:49:47 by sako             ###   ########.fr       */
+/*   Updated: 2019/12/01 11:12:28 by sako             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft_printf.h"
+#include "libft.h"
 
 char	*get_front(t_format *form, char *hex, char **str, int *len)
 {

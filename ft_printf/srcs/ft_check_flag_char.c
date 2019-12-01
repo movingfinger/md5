@@ -6,11 +6,11 @@
 /*   By: sako <marvin@42.fr>                        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/09/02 14:39:25 by sako              #+#    #+#             */
-/*   Updated: 2019/09/02 14:39:27 by sako             ###   ########.fr       */
+/*   Updated: 2019/12/01 11:02:53 by sako             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft_printf.h"
+#include "libft.h"
 
 char	*check_flag_width_char(t_format *form, int len, char *str)
 {

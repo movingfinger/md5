@@ -6,11 +6,11 @@
 /*   By: sako <marvin@42.fr>                        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/09/05 22:26:00 by sako              #+#    #+#             */
-/*   Updated: 2019/09/05 22:26:03 by sako             ###   ########.fr       */
+/*   Updated: 2019/12/01 11:04:08 by sako             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft_printf.h"
+#include "libft.h"
 
 int		check_number_length(char *str)
 {

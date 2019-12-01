@@ -6,11 +6,11 @@
 /*   By: sako <marvin@42.fr>                        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/09/06 22:30:05 by sako              #+#    #+#             */
-/*   Updated: 2019/09/06 22:30:06 by sako             ###   ########.fr       */
+/*   Updated: 2019/12/01 11:12:07 by sako             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft_printf.h"
+#include "libft.h"
 
 void	ft_change_color(char *traverse, int *i)
 {

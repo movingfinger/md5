@@ -6,9 +6,21 @@
 
 #IncludeRegexTransform: 
 
+../ft_printf/includes/conversions.h
+
+../ft_printf/includes/ft_printf.h
+stdarg.h
+-
+stdlib.h
+-
+limits.h
+-
+
 ../includes/ft_ssl.h
 libft.h
 ../includes/libft.h
+ft_printf.h
+../includes/ft_printf.h
 
 ../includes/libft.h
 unistd.h
@@ -19,10 +31,12 @@ string.h
 -
 fcntl.h
 -
+ft_printf.h
+../includes/ft_printf.h
+conversions.h
+../includes/conversions.h
 
-/nfs/2019/s/sako/Desktop/cadet/try/md5/srcs/ft_md5.c
+/nfs/2019/s/sako/Desktop/cadet/try/md5/srcs/main.c
 ft_ssl.h
 /nfs/2019/s/sako/Desktop/cadet/try/md5/srcs/ft_ssl.h
-stdio.h
-/nfs/2019/s/sako/Desktop/cadet/try/md5/srcs/stdio.h
 

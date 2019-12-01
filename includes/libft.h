@@ -6,7 +6,7 @@
 /*   By: sako <sako@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/04/29 10:24:29 by sako              #+#    #+#             */
-/*   Updated: 2019/10/04 19:35:59 by sako             ###   ########.fr       */
+/*   Updated: 2019/12/01 11:11:43 by sako             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,6 +17,7 @@
 # include <string.h>
 # include <fcntl.h>
 # include "ft_printf.h"
+# include "conversions.h"
 
 /*
 **	macro functions
@@ -132,5 +133,11 @@ void				ft_strtoupper(char *str);
 int					is_lower_letter(char c);
 int					is_upper_letter(char c);
 int					is_whitespace(char c);
+
+/*
+**	ft_printf.c
+*/
+
+int					ft_printf(const char *format, ...);
 
 #endif

@@ -11,7 +11,6 @@
 /* ************************************************************************** */
 
 #include "ft_ssl.h"
-#include "stdio.h"
 
 void	md5_pre_pad(t_md5 *md5, char *data)
 {
@@ -87,9 +86,7 @@ void	ft_md5(char *str, t_md5 *md5)
 	md5_init(md5);
 	md5_pre_pad(md5, str);
 	md5_post_pad(md5, hash);
-	while (++i < 4)
-		printf("%x\n", md5->state[i]);
 	i = -1;
 	while (++i < 16)
-		printf("%02x", hash[i]);
+		ft_printf("%02x", hash[i]);
 }

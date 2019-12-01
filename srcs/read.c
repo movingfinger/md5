@@ -29,11 +29,13 @@ void		fake_gnl(char **ptr, int fd)
 		{
 			break ;
 		}
-		tmp = str;
+//		tmp = str;
+		tmp = ft_strdup(str);
 		str = ft_strjoin(str, c);
 		free(tmp);
 	}
-	ptr[0] = str;
+//	ptr[0] = str;
+	ptr[0] = ft_strdup(str);
 }
 
 int			bad_file(t_md5 *md5, char **av)

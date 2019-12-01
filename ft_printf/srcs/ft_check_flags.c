@@ -6,11 +6,11 @@
 /*   By: sako <marvin@42.fr>                        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/07/30 22:23:06 by sako              #+#    #+#             */
-/*   Updated: 2019/07/30 22:23:07 by sako             ###   ########.fr       */
+/*   Updated: 2019/12/01 11:01:41 by sako             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft_printf.h"
+#include "libft.h"
 
 void	o_space(t_format *form, int len, char **front, char **space)
 {
