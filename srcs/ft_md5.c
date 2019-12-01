@@ -77,19 +77,18 @@ void	md5_init(t_md5 *md5)
 	md5->endian = check_little_endian();
 }
 
-void	ft_md5(char *str)
+void	ft_md5(char *str, t_md5 *md5)
 {
-	t_md5	md5;
 	int		i;
 	t_byte	hash[16];
 
 	i = -1;
 	ft_memset(hash, 0, 16);
-	md5_init(&md5);
-	md5_pre_pad(&md5, str);
-	md5_post_pad(&md5, hash);
+	md5_init(md5);
+	md5_pre_pad(md5, str);
+	md5_post_pad(md5, hash);
 	while (++i < 4)
-		printf("%x\n", md5.state[i]);
+		printf("%x\n", md5->state[i]);
 	i = -1;
 	while (++i < 16)
 		printf("%02x", hash[i]);

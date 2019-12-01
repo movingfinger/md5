@@ -123,6 +123,411 @@ md5/fast:
 	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/build
 .PHONY : md5/fast
 
+ft_printf/srcs/colors.o: ft_printf/srcs/colors.c.o
+
+.PHONY : ft_printf/srcs/colors.o
+
+# target to build an object file
+ft_printf/srcs/colors.c.o:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/ft_printf/srcs/colors.c.o
+.PHONY : ft_printf/srcs/colors.c.o
+
+ft_printf/srcs/colors.i: ft_printf/srcs/colors.c.i
+
+.PHONY : ft_printf/srcs/colors.i
+
+# target to preprocess a source file
+ft_printf/srcs/colors.c.i:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/ft_printf/srcs/colors.c.i
+.PHONY : ft_printf/srcs/colors.c.i
+
+ft_printf/srcs/colors.s: ft_printf/srcs/colors.c.s
+
+.PHONY : ft_printf/srcs/colors.s
+
+# target to generate assembly for a file
+ft_printf/srcs/colors.c.s:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/ft_printf/srcs/colors.c.s
+.PHONY : ft_printf/srcs/colors.c.s
+
+ft_printf/srcs/ft_binaryformat.o: ft_printf/srcs/ft_binaryformat.c.o
+
+.PHONY : ft_printf/srcs/ft_binaryformat.o
+
+# target to build an object file
+ft_printf/srcs/ft_binaryformat.c.o:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/ft_printf/srcs/ft_binaryformat.c.o
+.PHONY : ft_printf/srcs/ft_binaryformat.c.o
+
+ft_printf/srcs/ft_binaryformat.i: ft_printf/srcs/ft_binaryformat.c.i
+
+.PHONY : ft_printf/srcs/ft_binaryformat.i
+
+# target to preprocess a source file
+ft_printf/srcs/ft_binaryformat.c.i:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/ft_printf/srcs/ft_binaryformat.c.i
+.PHONY : ft_printf/srcs/ft_binaryformat.c.i
+
+ft_printf/srcs/ft_binaryformat.s: ft_printf/srcs/ft_binaryformat.c.s
+
+.PHONY : ft_printf/srcs/ft_binaryformat.s
+
+# target to generate assembly for a file
+ft_printf/srcs/ft_binaryformat.c.s:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/ft_printf/srcs/ft_binaryformat.c.s
+.PHONY : ft_printf/srcs/ft_binaryformat.c.s
+
+ft_printf/srcs/ft_charformat.o: ft_printf/srcs/ft_charformat.c.o
+
+.PHONY : ft_printf/srcs/ft_charformat.o
+
+# target to build an object file
+ft_printf/srcs/ft_charformat.c.o:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/ft_printf/srcs/ft_charformat.c.o
+.PHONY : ft_printf/srcs/ft_charformat.c.o
+
+ft_printf/srcs/ft_charformat.i: ft_printf/srcs/ft_charformat.c.i
+
+.PHONY : ft_printf/srcs/ft_charformat.i
+
+# target to preprocess a source file
+ft_printf/srcs/ft_charformat.c.i:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/ft_printf/srcs/ft_charformat.c.i
+.PHONY : ft_printf/srcs/ft_charformat.c.i
+
+ft_printf/srcs/ft_charformat.s: ft_printf/srcs/ft_charformat.c.s
+
+.PHONY : ft_printf/srcs/ft_charformat.s
+
+# target to generate assembly for a file
+ft_printf/srcs/ft_charformat.c.s:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/ft_printf/srcs/ft_charformat.c.s
+.PHONY : ft_printf/srcs/ft_charformat.c.s
+
+ft_printf/srcs/ft_check_flag_char.o: ft_printf/srcs/ft_check_flag_char.c.o
+
+.PHONY : ft_printf/srcs/ft_check_flag_char.o
+
+# target to build an object file
+ft_printf/srcs/ft_check_flag_char.c.o:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flag_char.c.o
+.PHONY : ft_printf/srcs/ft_check_flag_char.c.o
+
+ft_printf/srcs/ft_check_flag_char.i: ft_printf/srcs/ft_check_flag_char.c.i
+
+.PHONY : ft_printf/srcs/ft_check_flag_char.i
+
+# target to preprocess a source file
+ft_printf/srcs/ft_check_flag_char.c.i:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flag_char.c.i
+.PHONY : ft_printf/srcs/ft_check_flag_char.c.i
+
+ft_printf/srcs/ft_check_flag_char.s: ft_printf/srcs/ft_check_flag_char.c.s
+
+.PHONY : ft_printf/srcs/ft_check_flag_char.s
+
+# target to generate assembly for a file
+ft_printf/srcs/ft_check_flag_char.c.s:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flag_char.c.s
+.PHONY : ft_printf/srcs/ft_check_flag_char.c.s
+
+ft_printf/srcs/ft_check_flag_float.o: ft_printf/srcs/ft_check_flag_float.c.o
+
+.PHONY : ft_printf/srcs/ft_check_flag_float.o
+
+# target to build an object file
+ft_printf/srcs/ft_check_flag_float.c.o:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flag_float.c.o
+.PHONY : ft_printf/srcs/ft_check_flag_float.c.o
+
+ft_printf/srcs/ft_check_flag_float.i: ft_printf/srcs/ft_check_flag_float.c.i
+
+.PHONY : ft_printf/srcs/ft_check_flag_float.i
+
+# target to preprocess a source file
+ft_printf/srcs/ft_check_flag_float.c.i:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flag_float.c.i
+.PHONY : ft_printf/srcs/ft_check_flag_float.c.i
+
+ft_printf/srcs/ft_check_flag_float.s: ft_printf/srcs/ft_check_flag_float.c.s
+
+.PHONY : ft_printf/srcs/ft_check_flag_float.s
+
+# target to generate assembly for a file
+ft_printf/srcs/ft_check_flag_float.c.s:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flag_float.c.s
+.PHONY : ft_printf/srcs/ft_check_flag_float.c.s
+
+ft_printf/srcs/ft_check_flag_hex.o: ft_printf/srcs/ft_check_flag_hex.c.o
+
+.PHONY : ft_printf/srcs/ft_check_flag_hex.o
+
+# target to build an object file
+ft_printf/srcs/ft_check_flag_hex.c.o:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flag_hex.c.o
+.PHONY : ft_printf/srcs/ft_check_flag_hex.c.o
+
+ft_printf/srcs/ft_check_flag_hex.i: ft_printf/srcs/ft_check_flag_hex.c.i
+
+.PHONY : ft_printf/srcs/ft_check_flag_hex.i
+
+# target to preprocess a source file
+ft_printf/srcs/ft_check_flag_hex.c.i:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flag_hex.c.i
+.PHONY : ft_printf/srcs/ft_check_flag_hex.c.i
+
+ft_printf/srcs/ft_check_flag_hex.s: ft_printf/srcs/ft_check_flag_hex.c.s
+
+.PHONY : ft_printf/srcs/ft_check_flag_hex.s
+
+# target to generate assembly for a file
+ft_printf/srcs/ft_check_flag_hex.c.s:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flag_hex.c.s
+.PHONY : ft_printf/srcs/ft_check_flag_hex.c.s
+
+ft_printf/srcs/ft_check_flags.o: ft_printf/srcs/ft_check_flags.c.o
+
+.PHONY : ft_printf/srcs/ft_check_flags.o
+
+# target to build an object file
+ft_printf/srcs/ft_check_flags.c.o:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flags.c.o
+.PHONY : ft_printf/srcs/ft_check_flags.c.o
+
+ft_printf/srcs/ft_check_flags.i: ft_printf/srcs/ft_check_flags.c.i
+
+.PHONY : ft_printf/srcs/ft_check_flags.i
+
+# target to preprocess a source file
+ft_printf/srcs/ft_check_flags.c.i:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flags.c.i
+.PHONY : ft_printf/srcs/ft_check_flags.c.i
+
+ft_printf/srcs/ft_check_flags.s: ft_printf/srcs/ft_check_flags.c.s
+
+.PHONY : ft_printf/srcs/ft_check_flags.s
+
+# target to generate assembly for a file
+ft_printf/srcs/ft_check_flags.c.s:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flags.c.s
+.PHONY : ft_printf/srcs/ft_check_flags.c.s
+
+ft_printf/srcs/ft_check_flags_int.o: ft_printf/srcs/ft_check_flags_int.c.o
+
+.PHONY : ft_printf/srcs/ft_check_flags_int.o
+
+# target to build an object file
+ft_printf/srcs/ft_check_flags_int.c.o:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flags_int.c.o
+.PHONY : ft_printf/srcs/ft_check_flags_int.c.o
+
+ft_printf/srcs/ft_check_flags_int.i: ft_printf/srcs/ft_check_flags_int.c.i
+
+.PHONY : ft_printf/srcs/ft_check_flags_int.i
+
+# target to preprocess a source file
+ft_printf/srcs/ft_check_flags_int.c.i:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flags_int.c.i
+.PHONY : ft_printf/srcs/ft_check_flags_int.c.i
+
+ft_printf/srcs/ft_check_flags_int.s: ft_printf/srcs/ft_check_flags_int.c.s
+
+.PHONY : ft_printf/srcs/ft_check_flags_int.s
+
+# target to generate assembly for a file
+ft_printf/srcs/ft_check_flags_int.c.s:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flags_int.c.s
+.PHONY : ft_printf/srcs/ft_check_flags_int.c.s
+
+ft_printf/srcs/ft_convert.o: ft_printf/srcs/ft_convert.c.o
+
+.PHONY : ft_printf/srcs/ft_convert.o
+
+# target to build an object file
+ft_printf/srcs/ft_convert.c.o:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/ft_printf/srcs/ft_convert.c.o
+.PHONY : ft_printf/srcs/ft_convert.c.o
+
+ft_printf/srcs/ft_convert.i: ft_printf/srcs/ft_convert.c.i
+
+.PHONY : ft_printf/srcs/ft_convert.i
+
+# target to preprocess a source file
+ft_printf/srcs/ft_convert.c.i:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/ft_printf/srcs/ft_convert.c.i
+.PHONY : ft_printf/srcs/ft_convert.c.i
+
+ft_printf/srcs/ft_convert.s: ft_printf/srcs/ft_convert.c.s
+
+.PHONY : ft_printf/srcs/ft_convert.s
+
+# target to generate assembly for a file
+ft_printf/srcs/ft_convert.c.s:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/ft_printf/srcs/ft_convert.c.s
+.PHONY : ft_printf/srcs/ft_convert.c.s
+
+ft_printf/srcs/ft_floatformat.o: ft_printf/srcs/ft_floatformat.c.o
+
+.PHONY : ft_printf/srcs/ft_floatformat.o
+
+# target to build an object file
+ft_printf/srcs/ft_floatformat.c.o:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/ft_printf/srcs/ft_floatformat.c.o
+.PHONY : ft_printf/srcs/ft_floatformat.c.o
+
+ft_printf/srcs/ft_floatformat.i: ft_printf/srcs/ft_floatformat.c.i
+
+.PHONY : ft_printf/srcs/ft_floatformat.i
+
+# target to preprocess a source file
+ft_printf/srcs/ft_floatformat.c.i:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/ft_printf/srcs/ft_floatformat.c.i
+.PHONY : ft_printf/srcs/ft_floatformat.c.i
+
+ft_printf/srcs/ft_floatformat.s: ft_printf/srcs/ft_floatformat.c.s
+
+.PHONY : ft_printf/srcs/ft_floatformat.s
+
+# target to generate assembly for a file
+ft_printf/srcs/ft_floatformat.c.s:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/ft_printf/srcs/ft_floatformat.c.s
+.PHONY : ft_printf/srcs/ft_floatformat.c.s
+
+ft_printf/srcs/ft_intformat.o: ft_printf/srcs/ft_intformat.c.o
+
+.PHONY : ft_printf/srcs/ft_intformat.o
+
+# target to build an object file
+ft_printf/srcs/ft_intformat.c.o:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/ft_printf/srcs/ft_intformat.c.o
+.PHONY : ft_printf/srcs/ft_intformat.c.o
+
+ft_printf/srcs/ft_intformat.i: ft_printf/srcs/ft_intformat.c.i
+
+.PHONY : ft_printf/srcs/ft_intformat.i
+
+# target to preprocess a source file
+ft_printf/srcs/ft_intformat.c.i:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/ft_printf/srcs/ft_intformat.c.i
+.PHONY : ft_printf/srcs/ft_intformat.c.i
+
+ft_printf/srcs/ft_intformat.s: ft_printf/srcs/ft_intformat.c.s
+
+.PHONY : ft_printf/srcs/ft_intformat.s
+
+# target to generate assembly for a file
+ft_printf/srcs/ft_intformat.c.s:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/ft_printf/srcs/ft_intformat.c.s
+.PHONY : ft_printf/srcs/ft_intformat.c.s
+
+ft_printf/srcs/ft_parameters.o: ft_printf/srcs/ft_parameters.c.o
+
+.PHONY : ft_printf/srcs/ft_parameters.o
+
+# target to build an object file
+ft_printf/srcs/ft_parameters.c.o:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/ft_printf/srcs/ft_parameters.c.o
+.PHONY : ft_printf/srcs/ft_parameters.c.o
+
+ft_printf/srcs/ft_parameters.i: ft_printf/srcs/ft_parameters.c.i
+
+.PHONY : ft_printf/srcs/ft_parameters.i
+
+# target to preprocess a source file
+ft_printf/srcs/ft_parameters.c.i:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/ft_printf/srcs/ft_parameters.c.i
+.PHONY : ft_printf/srcs/ft_parameters.c.i
+
+ft_printf/srcs/ft_parameters.s: ft_printf/srcs/ft_parameters.c.s
+
+.PHONY : ft_printf/srcs/ft_parameters.s
+
+# target to generate assembly for a file
+ft_printf/srcs/ft_parameters.c.s:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/ft_printf/srcs/ft_parameters.c.s
+.PHONY : ft_printf/srcs/ft_parameters.c.s
+
+ft_printf/srcs/ft_printf.o: ft_printf/srcs/ft_printf.c.o
+
+.PHONY : ft_printf/srcs/ft_printf.o
+
+# target to build an object file
+ft_printf/srcs/ft_printf.c.o:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/ft_printf/srcs/ft_printf.c.o
+.PHONY : ft_printf/srcs/ft_printf.c.o
+
+ft_printf/srcs/ft_printf.i: ft_printf/srcs/ft_printf.c.i
+
+.PHONY : ft_printf/srcs/ft_printf.i
+
+# target to preprocess a source file
+ft_printf/srcs/ft_printf.c.i:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/ft_printf/srcs/ft_printf.c.i
+.PHONY : ft_printf/srcs/ft_printf.c.i
+
+ft_printf/srcs/ft_printf.s: ft_printf/srcs/ft_printf.c.s
+
+.PHONY : ft_printf/srcs/ft_printf.s
+
+# target to generate assembly for a file
+ft_printf/srcs/ft_printf.c.s:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/ft_printf/srcs/ft_printf.c.s
+.PHONY : ft_printf/srcs/ft_printf.c.s
+
+ft_printf/srcs/ft_printfuncs.o: ft_printf/srcs/ft_printfuncs.c.o
+
+.PHONY : ft_printf/srcs/ft_printfuncs.o
+
+# target to build an object file
+ft_printf/srcs/ft_printfuncs.c.o:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/ft_printf/srcs/ft_printfuncs.c.o
+.PHONY : ft_printf/srcs/ft_printfuncs.c.o
+
+ft_printf/srcs/ft_printfuncs.i: ft_printf/srcs/ft_printfuncs.c.i
+
+.PHONY : ft_printf/srcs/ft_printfuncs.i
+
+# target to preprocess a source file
+ft_printf/srcs/ft_printfuncs.c.i:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/ft_printf/srcs/ft_printfuncs.c.i
+.PHONY : ft_printf/srcs/ft_printfuncs.c.i
+
+ft_printf/srcs/ft_printfuncs.s: ft_printf/srcs/ft_printfuncs.c.s
+
+.PHONY : ft_printf/srcs/ft_printfuncs.s
+
+# target to generate assembly for a file
+ft_printf/srcs/ft_printfuncs.c.s:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/ft_printf/srcs/ft_printfuncs.c.s
+.PHONY : ft_printf/srcs/ft_printfuncs.c.s
+
+ft_printf/srcs/ft_width_precision.o: ft_printf/srcs/ft_width_precision.c.o
+
+.PHONY : ft_printf/srcs/ft_width_precision.o
+
+# target to build an object file
+ft_printf/srcs/ft_width_precision.c.o:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/ft_printf/srcs/ft_width_precision.c.o
+.PHONY : ft_printf/srcs/ft_width_precision.c.o
+
+ft_printf/srcs/ft_width_precision.i: ft_printf/srcs/ft_width_precision.c.i
+
+.PHONY : ft_printf/srcs/ft_width_precision.i
+
+# target to preprocess a source file
+ft_printf/srcs/ft_width_precision.c.i:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/ft_printf/srcs/ft_width_precision.c.i
+.PHONY : ft_printf/srcs/ft_width_precision.c.i
+
+ft_printf/srcs/ft_width_precision.s: ft_printf/srcs/ft_width_precision.c.s
+
+.PHONY : ft_printf/srcs/ft_width_precision.s
+
+# target to generate assembly for a file
+ft_printf/srcs/ft_width_precision.c.s:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/ft_printf/srcs/ft_width_precision.c.s
+.PHONY : ft_printf/srcs/ft_width_precision.c.s
+
 libft/check_num_length.o: libft/check_num_length.c.o
 
 .PHONY : libft/check_num_length.o
@@ -2337,6 +2742,33 @@ srcs/ft_md5_process.c.s:
 	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/srcs/ft_md5_process.c.s
 .PHONY : srcs/ft_md5_process.c.s
 
+srcs/ft_sha256.o: srcs/ft_sha256.c.o
+
+.PHONY : srcs/ft_sha256.o
+
+# target to build an object file
+srcs/ft_sha256.c.o:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/srcs/ft_sha256.c.o
+.PHONY : srcs/ft_sha256.c.o
+
+srcs/ft_sha256.i: srcs/ft_sha256.c.i
+
+.PHONY : srcs/ft_sha256.i
+
+# target to preprocess a source file
+srcs/ft_sha256.c.i:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/srcs/ft_sha256.c.i
+.PHONY : srcs/ft_sha256.c.i
+
+srcs/ft_sha256.s: srcs/ft_sha256.c.s
+
+.PHONY : srcs/ft_sha256.s
+
+# target to generate assembly for a file
+srcs/ft_sha256.c.s:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/srcs/ft_sha256.c.s
+.PHONY : srcs/ft_sha256.c.s
+
 srcs/main.o: srcs/main.c.o
 
 .PHONY : srcs/main.o
@@ -2364,6 +2796,33 @@ srcs/main.c.s:
 	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/srcs/main.c.s
 .PHONY : srcs/main.c.s
 
+srcs/read.o: srcs/read.c.o
+
+.PHONY : srcs/read.o
+
+# target to build an object file
+srcs/read.c.o:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/srcs/read.c.o
+.PHONY : srcs/read.c.o
+
+srcs/read.i: srcs/read.c.i
+
+.PHONY : srcs/read.i
+
+# target to preprocess a source file
+srcs/read.c.i:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/srcs/read.c.i
+.PHONY : srcs/read.c.i
+
+srcs/read.s: srcs/read.c.s
+
+.PHONY : srcs/read.s
+
+# target to generate assembly for a file
+srcs/read.c.s:
+	$(MAKE) -f CMakeFiles/md5.dir/build.make CMakeFiles/md5.dir/srcs/read.c.s
+.PHONY : srcs/read.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -2373,6 +2832,51 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... md5"
+	@echo "... ft_printf/srcs/colors.o"
+	@echo "... ft_printf/srcs/colors.i"
+	@echo "... ft_printf/srcs/colors.s"
+	@echo "... ft_printf/srcs/ft_binaryformat.o"
+	@echo "... ft_printf/srcs/ft_binaryformat.i"
+	@echo "... ft_printf/srcs/ft_binaryformat.s"
+	@echo "... ft_printf/srcs/ft_charformat.o"
+	@echo "... ft_printf/srcs/ft_charformat.i"
+	@echo "... ft_printf/srcs/ft_charformat.s"
+	@echo "... ft_printf/srcs/ft_check_flag_char.o"
+	@echo "... ft_printf/srcs/ft_check_flag_char.i"
+	@echo "... ft_printf/srcs/ft_check_flag_char.s"
+	@echo "... ft_printf/srcs/ft_check_flag_float.o"
+	@echo "... ft_printf/srcs/ft_check_flag_float.i"
+	@echo "... ft_printf/srcs/ft_check_flag_float.s"
+	@echo "... ft_printf/srcs/ft_check_flag_hex.o"
+	@echo "... ft_printf/srcs/ft_check_flag_hex.i"
+	@echo "... ft_printf/srcs/ft_check_flag_hex.s"
+	@echo "... ft_printf/srcs/ft_check_flags.o"
+	@echo "... ft_printf/srcs/ft_check_flags.i"
+	@echo "... ft_printf/srcs/ft_check_flags.s"
+	@echo "... ft_printf/srcs/ft_check_flags_int.o"
+	@echo "... ft_printf/srcs/ft_check_flags_int.i"
+	@echo "... ft_printf/srcs/ft_check_flags_int.s"
+	@echo "... ft_printf/srcs/ft_convert.o"
+	@echo "... ft_printf/srcs/ft_convert.i"
+	@echo "... ft_printf/srcs/ft_convert.s"
+	@echo "... ft_printf/srcs/ft_floatformat.o"
+	@echo "... ft_printf/srcs/ft_floatformat.i"
+	@echo "... ft_printf/srcs/ft_floatformat.s"
+	@echo "... ft_printf/srcs/ft_intformat.o"
+	@echo "... ft_printf/srcs/ft_intformat.i"
+	@echo "... ft_printf/srcs/ft_intformat.s"
+	@echo "... ft_printf/srcs/ft_parameters.o"
+	@echo "... ft_printf/srcs/ft_parameters.i"
+	@echo "... ft_printf/srcs/ft_parameters.s"
+	@echo "... ft_printf/srcs/ft_printf.o"
+	@echo "... ft_printf/srcs/ft_printf.i"
+	@echo "... ft_printf/srcs/ft_printf.s"
+	@echo "... ft_printf/srcs/ft_printfuncs.o"
+	@echo "... ft_printf/srcs/ft_printfuncs.i"
+	@echo "... ft_printf/srcs/ft_printfuncs.s"
+	@echo "... ft_printf/srcs/ft_width_precision.o"
+	@echo "... ft_printf/srcs/ft_width_precision.i"
+	@echo "... ft_printf/srcs/ft_width_precision.s"
 	@echo "... libft/check_num_length.o"
 	@echo "... libft/check_num_length.i"
 	@echo "... libft/check_num_length.s"
@@ -2619,9 +3123,15 @@ help:
 	@echo "... srcs/ft_md5_process.o"
 	@echo "... srcs/ft_md5_process.i"
 	@echo "... srcs/ft_md5_process.s"
+	@echo "... srcs/ft_sha256.o"
+	@echo "... srcs/ft_sha256.i"
+	@echo "... srcs/ft_sha256.s"
 	@echo "... srcs/main.o"
 	@echo "... srcs/main.i"
 	@echo "... srcs/main.s"
+	@echo "... srcs/read.o"
+	@echo "... srcs/read.i"
+	@echo "... srcs/read.s"
 .PHONY : help
 
 

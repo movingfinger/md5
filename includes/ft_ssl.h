@@ -45,8 +45,15 @@ struct						s_md5
 	t_word					var_g;
 	t_word					endian;
 	t_word					temp[4];
-	t_byte					stdion;
-	t_word					fd;
+	char					*stdin;
+	int						fd;
+	int					pars;
+	int 					i;
+	int 					n_file;
+	t_word					p;
+	t_word					q;
+	t_word					r;
+	t_word					s;
 };
 
 /*
@@ -56,11 +63,16 @@ struct						s_md5
 int							to_big(int bits3i2);
 int							to_little(int bits32);
 int							check_little_endian();
-void						ft_md5(char *str);
+void						ft_md5(char *str, t_md5 *md5);
+void						ft_sha256(char *str, t_md5 *md5);
 void						md5_process(t_md5 *md5, t_byte data[]);
 void						calculate_f(t_md5 *md5, int i);
 void						calculate_g(t_md5 *md5, int i);
 void						calculate_h(t_md5 *md5, int i);
 void						calculate_i(t_md5 *md5, int i);
 void						endian_word2byte(t_md5 *md5, t_byte hash[]);
+int							bad_file(t_md5 *md5, char **av);
+void						fake_gnl(char **ptr, int fd);
+int							print_s(t_md5 *ssl, char **argv, int argc);
+
 #endif

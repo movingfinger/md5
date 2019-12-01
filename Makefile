@@ -15,13 +15,15 @@ NAME = ft_ssl
 DIRHDER = ./includes/
 DIRLIB = ./libft/
 DIRSRC = ./srcs/
+DIRFTPRINTFH = ./ft_printf/includes/
+LIBFTPRINTF = ./libftprintf.a
 
 FLAG = -Wall -Wextra -Werror
 
 all: $(NAME)
 
 $(NAME):
-	gcc $(FLAG) -o $(NAME) $(DIRLIB)*.c $(DIRSRC)*.c -I $(DIRHDER)
+	gcc $(FLAG) -o $(NAME) $(DIRLIB)*.c $(DIRSRC)*.c -I $(DIRHDER) -I $(LIBFTPRINTF) -I $(DIRFTPRINTFH)
 
 clean:
 	/bin/rm -f *.o

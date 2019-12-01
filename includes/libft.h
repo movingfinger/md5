@@ -16,6 +16,7 @@
 # include <stdlib.h>
 # include <string.h>
 # include <fcntl.h>
+# include "ft_printf.h"
 
 /*
 **	macro functions

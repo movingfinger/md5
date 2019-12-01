@@ -3,9 +3,27 @@ project(md5 C)
 
 set(CMAKE_C_STANDARD 11)
 
+include_directories(ft_printf/includes)
 include_directories(includes)
 
 add_executable(md5
+        ft_printf/includes/conversions.h
+        ft_printf/includes/ft_printf.h
+        ft_printf/srcs/colors.c
+        ft_printf/srcs/ft_binaryformat.c
+        ft_printf/srcs/ft_charformat.c
+        ft_printf/srcs/ft_check_flag_char.c
+        ft_printf/srcs/ft_check_flag_float.c
+        ft_printf/srcs/ft_check_flag_hex.c
+        ft_printf/srcs/ft_check_flags.c
+        ft_printf/srcs/ft_check_flags_int.c
+        ft_printf/srcs/ft_convert.c
+        ft_printf/srcs/ft_floatformat.c
+        ft_printf/srcs/ft_intformat.c
+        ft_printf/srcs/ft_parameters.c
+        ft_printf/srcs/ft_printf.c
+        ft_printf/srcs/ft_printfuncs.c
+        ft_printf/srcs/ft_width_precision.c
         includes/ft_ssl.h
         includes/libft.h
         libft/check_num_length.c
@@ -90,4 +108,6 @@ add_executable(md5
         srcs/ft_md5.c
         srcs/ft_md5_dispatch.c
         srcs/ft_md5_process.c
-        srcs/main.c)
+        srcs/ft_sha256.c
+        srcs/main.c
+        srcs/read.c)

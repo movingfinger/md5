@@ -44,6 +44,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
+					<Add directory="/nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/includes"/>
 					<Add directory="/nfs/2019/s/sako/Desktop/cadet/try/md5/includes"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.1.0/include"/>
@@ -66,6 +67,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
+					<Add directory="/nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/includes"/>
 					<Add directory="/nfs/2019/s/sako/Desktop/cadet/try/md5/includes"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.1.0/include"/>
@@ -82,6 +84,57 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/includes/conversions.h">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/includes/ft_printf.h">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/colors.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_binaryformat.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_charformat.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_check_flag_char.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_check_flag_float.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_check_flag_hex.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_check_flags.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_check_flags_int.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_convert.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_floatformat.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_intformat.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_parameters.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_printf.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_printfuncs.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_width_precision.c">
+			<Option target="md5"/>
+		</Unit>
 		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/includes/ft_ssl.h">
 			<Option target="md5"/>
 		</Unit>
@@ -334,7 +387,13 @@
 		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/srcs/ft_md5_process.c">
 			<Option target="md5"/>
 		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/srcs/ft_sha256.c">
+			<Option target="md5"/>
+		</Unit>
 		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/srcs/main.c">
+			<Option target="md5"/>
+		</Unit>
+		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/srcs/read.c">
 			<Option target="md5"/>
 		</Unit>
 		<Unit filename="/nfs/2019/s/sako/Desktop/cadet/try/md5/CMakeLists.txt">

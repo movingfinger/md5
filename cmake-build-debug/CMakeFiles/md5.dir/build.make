@@ -57,9 +57,204 @@ include CMakeFiles/md5.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/md5.dir/flags.make
 
+CMakeFiles/md5.dir/ft_printf/srcs/colors.c.o: CMakeFiles/md5.dir/flags.make
+CMakeFiles/md5.dir/ft_printf/srcs/colors.c.o: ../ft_printf/srcs/colors.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/md5.dir/ft_printf/srcs/colors.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/ft_printf/srcs/colors.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/colors.c
+
+CMakeFiles/md5.dir/ft_printf/srcs/colors.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/md5.dir/ft_printf/srcs/colors.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/colors.c > CMakeFiles/md5.dir/ft_printf/srcs/colors.c.i
+
+CMakeFiles/md5.dir/ft_printf/srcs/colors.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/md5.dir/ft_printf/srcs/colors.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/colors.c -o CMakeFiles/md5.dir/ft_printf/srcs/colors.c.s
+
+CMakeFiles/md5.dir/ft_printf/srcs/ft_binaryformat.c.o: CMakeFiles/md5.dir/flags.make
+CMakeFiles/md5.dir/ft_printf/srcs/ft_binaryformat.c.o: ../ft_printf/srcs/ft_binaryformat.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/md5.dir/ft_printf/srcs/ft_binaryformat.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/ft_printf/srcs/ft_binaryformat.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_binaryformat.c
+
+CMakeFiles/md5.dir/ft_printf/srcs/ft_binaryformat.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/md5.dir/ft_printf/srcs/ft_binaryformat.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_binaryformat.c > CMakeFiles/md5.dir/ft_printf/srcs/ft_binaryformat.c.i
+
+CMakeFiles/md5.dir/ft_printf/srcs/ft_binaryformat.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/md5.dir/ft_printf/srcs/ft_binaryformat.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_binaryformat.c -o CMakeFiles/md5.dir/ft_printf/srcs/ft_binaryformat.c.s
+
+CMakeFiles/md5.dir/ft_printf/srcs/ft_charformat.c.o: CMakeFiles/md5.dir/flags.make
+CMakeFiles/md5.dir/ft_printf/srcs/ft_charformat.c.o: ../ft_printf/srcs/ft_charformat.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/md5.dir/ft_printf/srcs/ft_charformat.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/ft_printf/srcs/ft_charformat.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_charformat.c
+
+CMakeFiles/md5.dir/ft_printf/srcs/ft_charformat.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/md5.dir/ft_printf/srcs/ft_charformat.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_charformat.c > CMakeFiles/md5.dir/ft_printf/srcs/ft_charformat.c.i
+
+CMakeFiles/md5.dir/ft_printf/srcs/ft_charformat.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/md5.dir/ft_printf/srcs/ft_charformat.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_charformat.c -o CMakeFiles/md5.dir/ft_printf/srcs/ft_charformat.c.s
+
+CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flag_char.c.o: CMakeFiles/md5.dir/flags.make
+CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flag_char.c.o: ../ft_printf/srcs/ft_check_flag_char.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flag_char.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flag_char.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_check_flag_char.c
+
+CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flag_char.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flag_char.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_check_flag_char.c > CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flag_char.c.i
+
+CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flag_char.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flag_char.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_check_flag_char.c -o CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flag_char.c.s
+
+CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flag_float.c.o: CMakeFiles/md5.dir/flags.make
+CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flag_float.c.o: ../ft_printf/srcs/ft_check_flag_float.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flag_float.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flag_float.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_check_flag_float.c
+
+CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flag_float.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flag_float.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_check_flag_float.c > CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flag_float.c.i
+
+CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flag_float.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flag_float.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_check_flag_float.c -o CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flag_float.c.s
+
+CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flag_hex.c.o: CMakeFiles/md5.dir/flags.make
+CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flag_hex.c.o: ../ft_printf/srcs/ft_check_flag_hex.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flag_hex.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flag_hex.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_check_flag_hex.c
+
+CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flag_hex.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flag_hex.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_check_flag_hex.c > CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flag_hex.c.i
+
+CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flag_hex.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flag_hex.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_check_flag_hex.c -o CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flag_hex.c.s
+
+CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flags.c.o: CMakeFiles/md5.dir/flags.make
+CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flags.c.o: ../ft_printf/srcs/ft_check_flags.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flags.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flags.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_check_flags.c
+
+CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flags.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flags.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_check_flags.c > CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flags.c.i
+
+CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flags.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flags.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_check_flags.c -o CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flags.c.s
+
+CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flags_int.c.o: CMakeFiles/md5.dir/flags.make
+CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flags_int.c.o: ../ft_printf/srcs/ft_check_flags_int.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flags_int.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flags_int.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_check_flags_int.c
+
+CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flags_int.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flags_int.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_check_flags_int.c > CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flags_int.c.i
+
+CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flags_int.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flags_int.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_check_flags_int.c -o CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flags_int.c.s
+
+CMakeFiles/md5.dir/ft_printf/srcs/ft_convert.c.o: CMakeFiles/md5.dir/flags.make
+CMakeFiles/md5.dir/ft_printf/srcs/ft_convert.c.o: ../ft_printf/srcs/ft_convert.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/md5.dir/ft_printf/srcs/ft_convert.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/ft_printf/srcs/ft_convert.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_convert.c
+
+CMakeFiles/md5.dir/ft_printf/srcs/ft_convert.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/md5.dir/ft_printf/srcs/ft_convert.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_convert.c > CMakeFiles/md5.dir/ft_printf/srcs/ft_convert.c.i
+
+CMakeFiles/md5.dir/ft_printf/srcs/ft_convert.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/md5.dir/ft_printf/srcs/ft_convert.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_convert.c -o CMakeFiles/md5.dir/ft_printf/srcs/ft_convert.c.s
+
+CMakeFiles/md5.dir/ft_printf/srcs/ft_floatformat.c.o: CMakeFiles/md5.dir/flags.make
+CMakeFiles/md5.dir/ft_printf/srcs/ft_floatformat.c.o: ../ft_printf/srcs/ft_floatformat.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/md5.dir/ft_printf/srcs/ft_floatformat.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/ft_printf/srcs/ft_floatformat.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_floatformat.c
+
+CMakeFiles/md5.dir/ft_printf/srcs/ft_floatformat.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/md5.dir/ft_printf/srcs/ft_floatformat.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_floatformat.c > CMakeFiles/md5.dir/ft_printf/srcs/ft_floatformat.c.i
+
+CMakeFiles/md5.dir/ft_printf/srcs/ft_floatformat.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/md5.dir/ft_printf/srcs/ft_floatformat.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_floatformat.c -o CMakeFiles/md5.dir/ft_printf/srcs/ft_floatformat.c.s
+
+CMakeFiles/md5.dir/ft_printf/srcs/ft_intformat.c.o: CMakeFiles/md5.dir/flags.make
+CMakeFiles/md5.dir/ft_printf/srcs/ft_intformat.c.o: ../ft_printf/srcs/ft_intformat.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/md5.dir/ft_printf/srcs/ft_intformat.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/ft_printf/srcs/ft_intformat.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_intformat.c
+
+CMakeFiles/md5.dir/ft_printf/srcs/ft_intformat.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/md5.dir/ft_printf/srcs/ft_intformat.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_intformat.c > CMakeFiles/md5.dir/ft_printf/srcs/ft_intformat.c.i
+
+CMakeFiles/md5.dir/ft_printf/srcs/ft_intformat.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/md5.dir/ft_printf/srcs/ft_intformat.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_intformat.c -o CMakeFiles/md5.dir/ft_printf/srcs/ft_intformat.c.s
+
+CMakeFiles/md5.dir/ft_printf/srcs/ft_parameters.c.o: CMakeFiles/md5.dir/flags.make
+CMakeFiles/md5.dir/ft_printf/srcs/ft_parameters.c.o: ../ft_printf/srcs/ft_parameters.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/md5.dir/ft_printf/srcs/ft_parameters.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/ft_printf/srcs/ft_parameters.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_parameters.c
+
+CMakeFiles/md5.dir/ft_printf/srcs/ft_parameters.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/md5.dir/ft_printf/srcs/ft_parameters.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_parameters.c > CMakeFiles/md5.dir/ft_printf/srcs/ft_parameters.c.i
+
+CMakeFiles/md5.dir/ft_printf/srcs/ft_parameters.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/md5.dir/ft_printf/srcs/ft_parameters.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_parameters.c -o CMakeFiles/md5.dir/ft_printf/srcs/ft_parameters.c.s
+
+CMakeFiles/md5.dir/ft_printf/srcs/ft_printf.c.o: CMakeFiles/md5.dir/flags.make
+CMakeFiles/md5.dir/ft_printf/srcs/ft_printf.c.o: ../ft_printf/srcs/ft_printf.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/md5.dir/ft_printf/srcs/ft_printf.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/ft_printf/srcs/ft_printf.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_printf.c
+
+CMakeFiles/md5.dir/ft_printf/srcs/ft_printf.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/md5.dir/ft_printf/srcs/ft_printf.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_printf.c > CMakeFiles/md5.dir/ft_printf/srcs/ft_printf.c.i
+
+CMakeFiles/md5.dir/ft_printf/srcs/ft_printf.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/md5.dir/ft_printf/srcs/ft_printf.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_printf.c -o CMakeFiles/md5.dir/ft_printf/srcs/ft_printf.c.s
+
+CMakeFiles/md5.dir/ft_printf/srcs/ft_printfuncs.c.o: CMakeFiles/md5.dir/flags.make
+CMakeFiles/md5.dir/ft_printf/srcs/ft_printfuncs.c.o: ../ft_printf/srcs/ft_printfuncs.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/md5.dir/ft_printf/srcs/ft_printfuncs.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/ft_printf/srcs/ft_printfuncs.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_printfuncs.c
+
+CMakeFiles/md5.dir/ft_printf/srcs/ft_printfuncs.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/md5.dir/ft_printf/srcs/ft_printfuncs.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_printfuncs.c > CMakeFiles/md5.dir/ft_printf/srcs/ft_printfuncs.c.i
+
+CMakeFiles/md5.dir/ft_printf/srcs/ft_printfuncs.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/md5.dir/ft_printf/srcs/ft_printfuncs.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_printfuncs.c -o CMakeFiles/md5.dir/ft_printf/srcs/ft_printfuncs.c.s
+
+CMakeFiles/md5.dir/ft_printf/srcs/ft_width_precision.c.o: CMakeFiles/md5.dir/flags.make
+CMakeFiles/md5.dir/ft_printf/srcs/ft_width_precision.c.o: ../ft_printf/srcs/ft_width_precision.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/md5.dir/ft_printf/srcs/ft_width_precision.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/ft_printf/srcs/ft_width_precision.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_width_precision.c
+
+CMakeFiles/md5.dir/ft_printf/srcs/ft_width_precision.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/md5.dir/ft_printf/srcs/ft_width_precision.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_width_precision.c > CMakeFiles/md5.dir/ft_printf/srcs/ft_width_precision.c.i
+
+CMakeFiles/md5.dir/ft_printf/srcs/ft_width_precision.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/md5.dir/ft_printf/srcs/ft_width_precision.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /nfs/2019/s/sako/Desktop/cadet/try/md5/ft_printf/srcs/ft_width_precision.c -o CMakeFiles/md5.dir/ft_printf/srcs/ft_width_precision.c.s
+
 CMakeFiles/md5.dir/libft/check_num_length.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/check_num_length.c.o: ../libft/check_num_length.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/md5.dir/libft/check_num_length.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/md5.dir/libft/check_num_length.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/check_num_length.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/check_num_length.c
 
 CMakeFiles/md5.dir/libft/check_num_length.c.i: cmake_force
@@ -72,7 +267,7 @@ CMakeFiles/md5.dir/libft/check_num_length.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/count_words_in_str.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/count_words_in_str.c.o: ../libft/count_words_in_str.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/md5.dir/libft/count_words_in_str.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/md5.dir/libft/count_words_in_str.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/count_words_in_str.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/count_words_in_str.c
 
 CMakeFiles/md5.dir/libft/count_words_in_str.c.i: cmake_force
@@ -85,7 +280,7 @@ CMakeFiles/md5.dir/libft/count_words_in_str.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_atoi.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_atoi.c.o: ../libft/ft_atoi.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/md5.dir/libft/ft_atoi.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/md5.dir/libft/ft_atoi.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_atoi.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_atoi.c
 
 CMakeFiles/md5.dir/libft/ft_atoi.c.i: cmake_force
@@ -98,7 +293,7 @@ CMakeFiles/md5.dir/libft/ft_atoi.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_bzero.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_bzero.c.o: ../libft/ft_bzero.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/md5.dir/libft/ft_bzero.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/md5.dir/libft/ft_bzero.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_bzero.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_bzero.c
 
 CMakeFiles/md5.dir/libft/ft_bzero.c.i: cmake_force
@@ -111,7 +306,7 @@ CMakeFiles/md5.dir/libft/ft_bzero.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_ftoa.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_ftoa.c.o: ../libft/ft_ftoa.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/md5.dir/libft/ft_ftoa.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/md5.dir/libft/ft_ftoa.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_ftoa.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_ftoa.c
 
 CMakeFiles/md5.dir/libft/ft_ftoa.c.i: cmake_force
@@ -124,7 +319,7 @@ CMakeFiles/md5.dir/libft/ft_ftoa.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_isalnum.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_isalnum.c.o: ../libft/ft_isalnum.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/md5.dir/libft/ft_isalnum.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/md5.dir/libft/ft_isalnum.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_isalnum.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_isalnum.c
 
 CMakeFiles/md5.dir/libft/ft_isalnum.c.i: cmake_force
@@ -137,7 +332,7 @@ CMakeFiles/md5.dir/libft/ft_isalnum.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_isalpha.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_isalpha.c.o: ../libft/ft_isalpha.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/md5.dir/libft/ft_isalpha.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/md5.dir/libft/ft_isalpha.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_isalpha.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_isalpha.c
 
 CMakeFiles/md5.dir/libft/ft_isalpha.c.i: cmake_force
@@ -150,7 +345,7 @@ CMakeFiles/md5.dir/libft/ft_isalpha.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_isascii.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_isascii.c.o: ../libft/ft_isascii.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/md5.dir/libft/ft_isascii.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/md5.dir/libft/ft_isascii.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_isascii.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_isascii.c
 
 CMakeFiles/md5.dir/libft/ft_isascii.c.i: cmake_force
@@ -163,7 +358,7 @@ CMakeFiles/md5.dir/libft/ft_isascii.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_isdigit.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_isdigit.c.o: ../libft/ft_isdigit.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/md5.dir/libft/ft_isdigit.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/md5.dir/libft/ft_isdigit.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_isdigit.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_isdigit.c
 
 CMakeFiles/md5.dir/libft/ft_isdigit.c.i: cmake_force
@@ -176,7 +371,7 @@ CMakeFiles/md5.dir/libft/ft_isdigit.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_isfloat.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_isfloat.c.o: ../libft/ft_isfloat.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/md5.dir/libft/ft_isfloat.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object CMakeFiles/md5.dir/libft/ft_isfloat.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_isfloat.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_isfloat.c
 
 CMakeFiles/md5.dir/libft/ft_isfloat.c.i: cmake_force
@@ -189,7 +384,7 @@ CMakeFiles/md5.dir/libft/ft_isfloat.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_isint.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_isint.c.o: ../libft/ft_isint.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/md5.dir/libft/ft_isint.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object CMakeFiles/md5.dir/libft/ft_isint.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_isint.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_isint.c
 
 CMakeFiles/md5.dir/libft/ft_isint.c.i: cmake_force
@@ -202,7 +397,7 @@ CMakeFiles/md5.dir/libft/ft_isint.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_isprint.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_isprint.c.o: ../libft/ft_isprint.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/md5.dir/libft/ft_isprint.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object CMakeFiles/md5.dir/libft/ft_isprint.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_isprint.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_isprint.c
 
 CMakeFiles/md5.dir/libft/ft_isprint.c.i: cmake_force
@@ -215,7 +410,7 @@ CMakeFiles/md5.dir/libft/ft_isprint.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_itoa.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_itoa.c.o: ../libft/ft_itoa.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/md5.dir/libft/ft_itoa.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object CMakeFiles/md5.dir/libft/ft_itoa.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_itoa.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_itoa.c
 
 CMakeFiles/md5.dir/libft/ft_itoa.c.i: cmake_force
@@ -228,7 +423,7 @@ CMakeFiles/md5.dir/libft/ft_itoa.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_itoa_base.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_itoa_base.c.o: ../libft/ft_itoa_base.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/md5.dir/libft/ft_itoa_base.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object CMakeFiles/md5.dir/libft/ft_itoa_base.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_itoa_base.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_itoa_base.c
 
 CMakeFiles/md5.dir/libft/ft_itoa_base.c.i: cmake_force
@@ -241,7 +436,7 @@ CMakeFiles/md5.dir/libft/ft_itoa_base.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_lstadd.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_lstadd.c.o: ../libft/ft_lstadd.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/md5.dir/libft/ft_lstadd.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building C object CMakeFiles/md5.dir/libft/ft_lstadd.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_lstadd.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_lstadd.c
 
 CMakeFiles/md5.dir/libft/ft_lstadd.c.i: cmake_force
@@ -254,7 +449,7 @@ CMakeFiles/md5.dir/libft/ft_lstadd.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_lstdel.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_lstdel.c.o: ../libft/ft_lstdel.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/md5.dir/libft/ft_lstdel.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building C object CMakeFiles/md5.dir/libft/ft_lstdel.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_lstdel.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_lstdel.c
 
 CMakeFiles/md5.dir/libft/ft_lstdel.c.i: cmake_force
@@ -267,7 +462,7 @@ CMakeFiles/md5.dir/libft/ft_lstdel.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_lstdelone.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_lstdelone.c.o: ../libft/ft_lstdelone.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/md5.dir/libft/ft_lstdelone.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building C object CMakeFiles/md5.dir/libft/ft_lstdelone.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_lstdelone.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_lstdelone.c
 
 CMakeFiles/md5.dir/libft/ft_lstdelone.c.i: cmake_force
@@ -280,7 +475,7 @@ CMakeFiles/md5.dir/libft/ft_lstdelone.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_lstiter.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_lstiter.c.o: ../libft/ft_lstiter.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/md5.dir/libft/ft_lstiter.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building C object CMakeFiles/md5.dir/libft/ft_lstiter.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_lstiter.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_lstiter.c
 
 CMakeFiles/md5.dir/libft/ft_lstiter.c.i: cmake_force
@@ -293,7 +488,7 @@ CMakeFiles/md5.dir/libft/ft_lstiter.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_lstmap.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_lstmap.c.o: ../libft/ft_lstmap.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/md5.dir/libft/ft_lstmap.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building C object CMakeFiles/md5.dir/libft/ft_lstmap.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_lstmap.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_lstmap.c
 
 CMakeFiles/md5.dir/libft/ft_lstmap.c.i: cmake_force
@@ -306,7 +501,7 @@ CMakeFiles/md5.dir/libft/ft_lstmap.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_lstnew.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_lstnew.c.o: ../libft/ft_lstnew.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/md5.dir/libft/ft_lstnew.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building C object CMakeFiles/md5.dir/libft/ft_lstnew.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_lstnew.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_lstnew.c
 
 CMakeFiles/md5.dir/libft/ft_lstnew.c.i: cmake_force
@@ -319,7 +514,7 @@ CMakeFiles/md5.dir/libft/ft_lstnew.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_memalloc.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_memalloc.c.o: ../libft/ft_memalloc.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/md5.dir/libft/ft_memalloc.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building C object CMakeFiles/md5.dir/libft/ft_memalloc.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_memalloc.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_memalloc.c
 
 CMakeFiles/md5.dir/libft/ft_memalloc.c.i: cmake_force
@@ -332,7 +527,7 @@ CMakeFiles/md5.dir/libft/ft_memalloc.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_memalloc_specific.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_memalloc_specific.c.o: ../libft/ft_memalloc_specific.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/md5.dir/libft/ft_memalloc_specific.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building C object CMakeFiles/md5.dir/libft/ft_memalloc_specific.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_memalloc_specific.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_memalloc_specific.c
 
 CMakeFiles/md5.dir/libft/ft_memalloc_specific.c.i: cmake_force
@@ -345,7 +540,7 @@ CMakeFiles/md5.dir/libft/ft_memalloc_specific.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_memccpy.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_memccpy.c.o: ../libft/ft_memccpy.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/md5.dir/libft/ft_memccpy.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building C object CMakeFiles/md5.dir/libft/ft_memccpy.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_memccpy.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_memccpy.c
 
 CMakeFiles/md5.dir/libft/ft_memccpy.c.i: cmake_force
@@ -358,7 +553,7 @@ CMakeFiles/md5.dir/libft/ft_memccpy.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_memchr.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_memchr.c.o: ../libft/ft_memchr.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/md5.dir/libft/ft_memchr.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building C object CMakeFiles/md5.dir/libft/ft_memchr.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_memchr.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_memchr.c
 
 CMakeFiles/md5.dir/libft/ft_memchr.c.i: cmake_force
@@ -371,7 +566,7 @@ CMakeFiles/md5.dir/libft/ft_memchr.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_memcmp.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_memcmp.c.o: ../libft/ft_memcmp.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object CMakeFiles/md5.dir/libft/ft_memcmp.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building C object CMakeFiles/md5.dir/libft/ft_memcmp.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_memcmp.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_memcmp.c
 
 CMakeFiles/md5.dir/libft/ft_memcmp.c.i: cmake_force
@@ -384,7 +579,7 @@ CMakeFiles/md5.dir/libft/ft_memcmp.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_memcpy.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_memcpy.c.o: ../libft/ft_memcpy.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object CMakeFiles/md5.dir/libft/ft_memcpy.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building C object CMakeFiles/md5.dir/libft/ft_memcpy.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_memcpy.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_memcpy.c
 
 CMakeFiles/md5.dir/libft/ft_memcpy.c.i: cmake_force
@@ -397,7 +592,7 @@ CMakeFiles/md5.dir/libft/ft_memcpy.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_memdel.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_memdel.c.o: ../libft/ft_memdel.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object CMakeFiles/md5.dir/libft/ft_memdel.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building C object CMakeFiles/md5.dir/libft/ft_memdel.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_memdel.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_memdel.c
 
 CMakeFiles/md5.dir/libft/ft_memdel.c.i: cmake_force
@@ -410,7 +605,7 @@ CMakeFiles/md5.dir/libft/ft_memdel.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_memmove.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_memmove.c.o: ../libft/ft_memmove.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object CMakeFiles/md5.dir/libft/ft_memmove.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building C object CMakeFiles/md5.dir/libft/ft_memmove.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_memmove.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_memmove.c
 
 CMakeFiles/md5.dir/libft/ft_memmove.c.i: cmake_force
@@ -423,7 +618,7 @@ CMakeFiles/md5.dir/libft/ft_memmove.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_memset.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_memset.c.o: ../libft/ft_memset.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object CMakeFiles/md5.dir/libft/ft_memset.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building C object CMakeFiles/md5.dir/libft/ft_memset.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_memset.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_memset.c
 
 CMakeFiles/md5.dir/libft/ft_memset.c.i: cmake_force
@@ -436,7 +631,7 @@ CMakeFiles/md5.dir/libft/ft_memset.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_pow.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_pow.c.o: ../libft/ft_pow.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building C object CMakeFiles/md5.dir/libft/ft_pow.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building C object CMakeFiles/md5.dir/libft/ft_pow.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_pow.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_pow.c
 
 CMakeFiles/md5.dir/libft/ft_pow.c.i: cmake_force
@@ -449,7 +644,7 @@ CMakeFiles/md5.dir/libft/ft_pow.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_putchar.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_putchar.c.o: ../libft/ft_putchar.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building C object CMakeFiles/md5.dir/libft/ft_putchar.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building C object CMakeFiles/md5.dir/libft/ft_putchar.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_putchar.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_putchar.c
 
 CMakeFiles/md5.dir/libft/ft_putchar.c.i: cmake_force
@@ -462,7 +657,7 @@ CMakeFiles/md5.dir/libft/ft_putchar.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_putchar_fd.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_putchar_fd.c.o: ../libft/ft_putchar_fd.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building C object CMakeFiles/md5.dir/libft/ft_putchar_fd.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building C object CMakeFiles/md5.dir/libft/ft_putchar_fd.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_putchar_fd.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_putchar_fd.c
 
 CMakeFiles/md5.dir/libft/ft_putchar_fd.c.i: cmake_force
@@ -475,7 +670,7 @@ CMakeFiles/md5.dir/libft/ft_putchar_fd.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_putendl.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_putendl.c.o: ../libft/ft_putendl.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building C object CMakeFiles/md5.dir/libft/ft_putendl.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building C object CMakeFiles/md5.dir/libft/ft_putendl.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_putendl.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_putendl.c
 
 CMakeFiles/md5.dir/libft/ft_putendl.c.i: cmake_force
@@ -488,7 +683,7 @@ CMakeFiles/md5.dir/libft/ft_putendl.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_putendl_fd.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_putendl_fd.c.o: ../libft/ft_putendl_fd.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building C object CMakeFiles/md5.dir/libft/ft_putendl_fd.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building C object CMakeFiles/md5.dir/libft/ft_putendl_fd.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_putendl_fd.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_putendl_fd.c
 
 CMakeFiles/md5.dir/libft/ft_putendl_fd.c.i: cmake_force
@@ -501,7 +696,7 @@ CMakeFiles/md5.dir/libft/ft_putendl_fd.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_puterror.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_puterror.c.o: ../libft/ft_puterror.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building C object CMakeFiles/md5.dir/libft/ft_puterror.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building C object CMakeFiles/md5.dir/libft/ft_puterror.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_puterror.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_puterror.c
 
 CMakeFiles/md5.dir/libft/ft_puterror.c.i: cmake_force
@@ -514,7 +709,7 @@ CMakeFiles/md5.dir/libft/ft_puterror.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_putnbr.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_putnbr.c.o: ../libft/ft_putnbr.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building C object CMakeFiles/md5.dir/libft/ft_putnbr.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building C object CMakeFiles/md5.dir/libft/ft_putnbr.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_putnbr.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_putnbr.c
 
 CMakeFiles/md5.dir/libft/ft_putnbr.c.i: cmake_force
@@ -527,7 +722,7 @@ CMakeFiles/md5.dir/libft/ft_putnbr.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_putnbr_fd.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_putnbr_fd.c.o: ../libft/ft_putnbr_fd.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building C object CMakeFiles/md5.dir/libft/ft_putnbr_fd.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building C object CMakeFiles/md5.dir/libft/ft_putnbr_fd.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_putnbr_fd.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_putnbr_fd.c
 
 CMakeFiles/md5.dir/libft/ft_putnbr_fd.c.i: cmake_force
@@ -540,7 +735,7 @@ CMakeFiles/md5.dir/libft/ft_putnbr_fd.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_putstr.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_putstr.c.o: ../libft/ft_putstr.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building C object CMakeFiles/md5.dir/libft/ft_putstr.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building C object CMakeFiles/md5.dir/libft/ft_putstr.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_putstr.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_putstr.c
 
 CMakeFiles/md5.dir/libft/ft_putstr.c.i: cmake_force
@@ -553,7 +748,7 @@ CMakeFiles/md5.dir/libft/ft_putstr.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_putstr_fd.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_putstr_fd.c.o: ../libft/ft_putstr_fd.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building C object CMakeFiles/md5.dir/libft/ft_putstr_fd.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building C object CMakeFiles/md5.dir/libft/ft_putstr_fd.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_putstr_fd.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_putstr_fd.c
 
 CMakeFiles/md5.dir/libft/ft_putstr_fd.c.i: cmake_force
@@ -566,7 +761,7 @@ CMakeFiles/md5.dir/libft/ft_putstr_fd.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_strcat.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_strcat.c.o: ../libft/ft_strcat.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building C object CMakeFiles/md5.dir/libft/ft_strcat.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building C object CMakeFiles/md5.dir/libft/ft_strcat.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_strcat.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strcat.c
 
 CMakeFiles/md5.dir/libft/ft_strcat.c.i: cmake_force
@@ -579,7 +774,7 @@ CMakeFiles/md5.dir/libft/ft_strcat.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_strchr.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_strchr.c.o: ../libft/ft_strchr.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building C object CMakeFiles/md5.dir/libft/ft_strchr.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building C object CMakeFiles/md5.dir/libft/ft_strchr.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_strchr.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strchr.c
 
 CMakeFiles/md5.dir/libft/ft_strchr.c.i: cmake_force
@@ -592,7 +787,7 @@ CMakeFiles/md5.dir/libft/ft_strchr.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_strclr.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_strclr.c.o: ../libft/ft_strclr.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building C object CMakeFiles/md5.dir/libft/ft_strclr.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building C object CMakeFiles/md5.dir/libft/ft_strclr.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_strclr.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strclr.c
 
 CMakeFiles/md5.dir/libft/ft_strclr.c.i: cmake_force
@@ -605,7 +800,7 @@ CMakeFiles/md5.dir/libft/ft_strclr.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_strcmp.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_strcmp.c.o: ../libft/ft_strcmp.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building C object CMakeFiles/md5.dir/libft/ft_strcmp.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building C object CMakeFiles/md5.dir/libft/ft_strcmp.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_strcmp.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strcmp.c
 
 CMakeFiles/md5.dir/libft/ft_strcmp.c.i: cmake_force
@@ -618,7 +813,7 @@ CMakeFiles/md5.dir/libft/ft_strcmp.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_strcmp_index.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_strcmp_index.c.o: ../libft/ft_strcmp_index.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building C object CMakeFiles/md5.dir/libft/ft_strcmp_index.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building C object CMakeFiles/md5.dir/libft/ft_strcmp_index.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_strcmp_index.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strcmp_index.c
 
 CMakeFiles/md5.dir/libft/ft_strcmp_index.c.i: cmake_force
@@ -631,7 +826,7 @@ CMakeFiles/md5.dir/libft/ft_strcmp_index.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_strcpy.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_strcpy.c.o: ../libft/ft_strcpy.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building C object CMakeFiles/md5.dir/libft/ft_strcpy.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building C object CMakeFiles/md5.dir/libft/ft_strcpy.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_strcpy.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strcpy.c
 
 CMakeFiles/md5.dir/libft/ft_strcpy.c.i: cmake_force
@@ -644,7 +839,7 @@ CMakeFiles/md5.dir/libft/ft_strcpy.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_strdel.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_strdel.c.o: ../libft/ft_strdel.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building C object CMakeFiles/md5.dir/libft/ft_strdel.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building C object CMakeFiles/md5.dir/libft/ft_strdel.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_strdel.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strdel.c
 
 CMakeFiles/md5.dir/libft/ft_strdel.c.i: cmake_force
@@ -657,7 +852,7 @@ CMakeFiles/md5.dir/libft/ft_strdel.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_strdup.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_strdup.c.o: ../libft/ft_strdup.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building C object CMakeFiles/md5.dir/libft/ft_strdup.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building C object CMakeFiles/md5.dir/libft/ft_strdup.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_strdup.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strdup.c
 
 CMakeFiles/md5.dir/libft/ft_strdup.c.i: cmake_force
@@ -670,7 +865,7 @@ CMakeFiles/md5.dir/libft/ft_strdup.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_strequ.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_strequ.c.o: ../libft/ft_strequ.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building C object CMakeFiles/md5.dir/libft/ft_strequ.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building C object CMakeFiles/md5.dir/libft/ft_strequ.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_strequ.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strequ.c
 
 CMakeFiles/md5.dir/libft/ft_strequ.c.i: cmake_force
@@ -683,7 +878,7 @@ CMakeFiles/md5.dir/libft/ft_strequ.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_striter.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_striter.c.o: ../libft/ft_striter.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building C object CMakeFiles/md5.dir/libft/ft_striter.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building C object CMakeFiles/md5.dir/libft/ft_striter.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_striter.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_striter.c
 
 CMakeFiles/md5.dir/libft/ft_striter.c.i: cmake_force
@@ -696,7 +891,7 @@ CMakeFiles/md5.dir/libft/ft_striter.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_striteri.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_striteri.c.o: ../libft/ft_striteri.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building C object CMakeFiles/md5.dir/libft/ft_striteri.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building C object CMakeFiles/md5.dir/libft/ft_striteri.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_striteri.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_striteri.c
 
 CMakeFiles/md5.dir/libft/ft_striteri.c.i: cmake_force
@@ -709,7 +904,7 @@ CMakeFiles/md5.dir/libft/ft_striteri.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_strjoin.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_strjoin.c.o: ../libft/ft_strjoin.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building C object CMakeFiles/md5.dir/libft/ft_strjoin.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building C object CMakeFiles/md5.dir/libft/ft_strjoin.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_strjoin.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strjoin.c
 
 CMakeFiles/md5.dir/libft/ft_strjoin.c.i: cmake_force
@@ -722,7 +917,7 @@ CMakeFiles/md5.dir/libft/ft_strjoin.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_strjoin_free_end.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_strjoin_free_end.c.o: ../libft/ft_strjoin_free_end.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building C object CMakeFiles/md5.dir/libft/ft_strjoin_free_end.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building C object CMakeFiles/md5.dir/libft/ft_strjoin_free_end.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_strjoin_free_end.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strjoin_free_end.c
 
 CMakeFiles/md5.dir/libft/ft_strjoin_free_end.c.i: cmake_force
@@ -735,7 +930,7 @@ CMakeFiles/md5.dir/libft/ft_strjoin_free_end.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_strjoin_free_front.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_strjoin_free_front.c.o: ../libft/ft_strjoin_free_front.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building C object CMakeFiles/md5.dir/libft/ft_strjoin_free_front.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building C object CMakeFiles/md5.dir/libft/ft_strjoin_free_front.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_strjoin_free_front.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strjoin_free_front.c
 
 CMakeFiles/md5.dir/libft/ft_strjoin_free_front.c.i: cmake_force
@@ -748,7 +943,7 @@ CMakeFiles/md5.dir/libft/ft_strjoin_free_front.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_strjoin_new.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_strjoin_new.c.o: ../libft/ft_strjoin_new.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building C object CMakeFiles/md5.dir/libft/ft_strjoin_new.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building C object CMakeFiles/md5.dir/libft/ft_strjoin_new.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_strjoin_new.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strjoin_new.c
 
 CMakeFiles/md5.dir/libft/ft_strjoin_new.c.i: cmake_force
@@ -761,7 +956,7 @@ CMakeFiles/md5.dir/libft/ft_strjoin_new.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_strlcat.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_strlcat.c.o: ../libft/ft_strlcat.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building C object CMakeFiles/md5.dir/libft/ft_strlcat.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building C object CMakeFiles/md5.dir/libft/ft_strlcat.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_strlcat.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strlcat.c
 
 CMakeFiles/md5.dir/libft/ft_strlcat.c.i: cmake_force
@@ -774,7 +969,7 @@ CMakeFiles/md5.dir/libft/ft_strlcat.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_strlen.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_strlen.c.o: ../libft/ft_strlen.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building C object CMakeFiles/md5.dir/libft/ft_strlen.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building C object CMakeFiles/md5.dir/libft/ft_strlen.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_strlen.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strlen.c
 
 CMakeFiles/md5.dir/libft/ft_strlen.c.i: cmake_force
@@ -787,7 +982,7 @@ CMakeFiles/md5.dir/libft/ft_strlen.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_strmap.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_strmap.c.o: ../libft/ft_strmap.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building C object CMakeFiles/md5.dir/libft/ft_strmap.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building C object CMakeFiles/md5.dir/libft/ft_strmap.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_strmap.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strmap.c
 
 CMakeFiles/md5.dir/libft/ft_strmap.c.i: cmake_force
@@ -800,7 +995,7 @@ CMakeFiles/md5.dir/libft/ft_strmap.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_strmapi.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_strmapi.c.o: ../libft/ft_strmapi.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building C object CMakeFiles/md5.dir/libft/ft_strmapi.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building C object CMakeFiles/md5.dir/libft/ft_strmapi.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_strmapi.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strmapi.c
 
 CMakeFiles/md5.dir/libft/ft_strmapi.c.i: cmake_force
@@ -813,7 +1008,7 @@ CMakeFiles/md5.dir/libft/ft_strmapi.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_strncat.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_strncat.c.o: ../libft/ft_strncat.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building C object CMakeFiles/md5.dir/libft/ft_strncat.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building C object CMakeFiles/md5.dir/libft/ft_strncat.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_strncat.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strncat.c
 
 CMakeFiles/md5.dir/libft/ft_strncat.c.i: cmake_force
@@ -826,7 +1021,7 @@ CMakeFiles/md5.dir/libft/ft_strncat.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_strncmp.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_strncmp.c.o: ../libft/ft_strncmp.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building C object CMakeFiles/md5.dir/libft/ft_strncmp.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building C object CMakeFiles/md5.dir/libft/ft_strncmp.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_strncmp.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strncmp.c
 
 CMakeFiles/md5.dir/libft/ft_strncmp.c.i: cmake_force
@@ -839,7 +1034,7 @@ CMakeFiles/md5.dir/libft/ft_strncmp.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_strncpy.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_strncpy.c.o: ../libft/ft_strncpy.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building C object CMakeFiles/md5.dir/libft/ft_strncpy.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Building C object CMakeFiles/md5.dir/libft/ft_strncpy.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_strncpy.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strncpy.c
 
 CMakeFiles/md5.dir/libft/ft_strncpy.c.i: cmake_force
@@ -852,7 +1047,7 @@ CMakeFiles/md5.dir/libft/ft_strncpy.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_strnequ.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_strnequ.c.o: ../libft/ft_strnequ.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building C object CMakeFiles/md5.dir/libft/ft_strnequ.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building C object CMakeFiles/md5.dir/libft/ft_strnequ.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_strnequ.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strnequ.c
 
 CMakeFiles/md5.dir/libft/ft_strnequ.c.i: cmake_force
@@ -865,7 +1060,7 @@ CMakeFiles/md5.dir/libft/ft_strnequ.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_strnew.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_strnew.c.o: ../libft/ft_strnew.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building C object CMakeFiles/md5.dir/libft/ft_strnew.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_78) "Building C object CMakeFiles/md5.dir/libft/ft_strnew.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_strnew.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strnew.c
 
 CMakeFiles/md5.dir/libft/ft_strnew.c.i: cmake_force
@@ -878,7 +1073,7 @@ CMakeFiles/md5.dir/libft/ft_strnew.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_strnstr.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_strnstr.c.o: ../libft/ft_strnstr.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building C object CMakeFiles/md5.dir/libft/ft_strnstr.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_79) "Building C object CMakeFiles/md5.dir/libft/ft_strnstr.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_strnstr.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strnstr.c
 
 CMakeFiles/md5.dir/libft/ft_strnstr.c.i: cmake_force
@@ -891,7 +1086,7 @@ CMakeFiles/md5.dir/libft/ft_strnstr.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_strrchr.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_strrchr.c.o: ../libft/ft_strrchr.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building C object CMakeFiles/md5.dir/libft/ft_strrchr.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Building C object CMakeFiles/md5.dir/libft/ft_strrchr.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_strrchr.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strrchr.c
 
 CMakeFiles/md5.dir/libft/ft_strrchr.c.i: cmake_force
@@ -904,7 +1099,7 @@ CMakeFiles/md5.dir/libft/ft_strrchr.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_strsplit.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_strsplit.c.o: ../libft/ft_strsplit.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building C object CMakeFiles/md5.dir/libft/ft_strsplit.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_81) "Building C object CMakeFiles/md5.dir/libft/ft_strsplit.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_strsplit.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strsplit.c
 
 CMakeFiles/md5.dir/libft/ft_strsplit.c.i: cmake_force
@@ -917,7 +1112,7 @@ CMakeFiles/md5.dir/libft/ft_strsplit.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_strstr.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_strstr.c.o: ../libft/ft_strstr.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building C object CMakeFiles/md5.dir/libft/ft_strstr.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Building C object CMakeFiles/md5.dir/libft/ft_strstr.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_strstr.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strstr.c
 
 CMakeFiles/md5.dir/libft/ft_strstr.c.i: cmake_force
@@ -930,7 +1125,7 @@ CMakeFiles/md5.dir/libft/ft_strstr.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_strsub.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_strsub.c.o: ../libft/ft_strsub.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building C object CMakeFiles/md5.dir/libft/ft_strsub.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_83) "Building C object CMakeFiles/md5.dir/libft/ft_strsub.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_strsub.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strsub.c
 
 CMakeFiles/md5.dir/libft/ft_strsub.c.i: cmake_force
@@ -943,7 +1138,7 @@ CMakeFiles/md5.dir/libft/ft_strsub.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_strtolower.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_strtolower.c.o: ../libft/ft_strtolower.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building C object CMakeFiles/md5.dir/libft/ft_strtolower.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_84) "Building C object CMakeFiles/md5.dir/libft/ft_strtolower.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_strtolower.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strtolower.c
 
 CMakeFiles/md5.dir/libft/ft_strtolower.c.i: cmake_force
@@ -956,7 +1151,7 @@ CMakeFiles/md5.dir/libft/ft_strtolower.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_strtoupper.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_strtoupper.c.o: ../libft/ft_strtoupper.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building C object CMakeFiles/md5.dir/libft/ft_strtoupper.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_85) "Building C object CMakeFiles/md5.dir/libft/ft_strtoupper.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_strtoupper.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strtoupper.c
 
 CMakeFiles/md5.dir/libft/ft_strtoupper.c.i: cmake_force
@@ -969,7 +1164,7 @@ CMakeFiles/md5.dir/libft/ft_strtoupper.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_strtrim.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_strtrim.c.o: ../libft/ft_strtrim.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building C object CMakeFiles/md5.dir/libft/ft_strtrim.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_86) "Building C object CMakeFiles/md5.dir/libft/ft_strtrim.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_strtrim.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_strtrim.c
 
 CMakeFiles/md5.dir/libft/ft_strtrim.c.i: cmake_force
@@ -982,7 +1177,7 @@ CMakeFiles/md5.dir/libft/ft_strtrim.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_tolower.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_tolower.c.o: ../libft/ft_tolower.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building C object CMakeFiles/md5.dir/libft/ft_tolower.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_87) "Building C object CMakeFiles/md5.dir/libft/ft_tolower.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_tolower.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_tolower.c
 
 CMakeFiles/md5.dir/libft/ft_tolower.c.i: cmake_force
@@ -995,7 +1190,7 @@ CMakeFiles/md5.dir/libft/ft_tolower.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/ft_toupper.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/ft_toupper.c.o: ../libft/ft_toupper.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building C object CMakeFiles/md5.dir/libft/ft_toupper.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_88) "Building C object CMakeFiles/md5.dir/libft/ft_toupper.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/ft_toupper.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/ft_toupper.c
 
 CMakeFiles/md5.dir/libft/ft_toupper.c.i: cmake_force
@@ -1008,7 +1203,7 @@ CMakeFiles/md5.dir/libft/ft_toupper.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/get_next_line.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/get_next_line.c.o: ../libft/get_next_line.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building C object CMakeFiles/md5.dir/libft/get_next_line.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_89) "Building C object CMakeFiles/md5.dir/libft/get_next_line.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/get_next_line.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/get_next_line.c
 
 CMakeFiles/md5.dir/libft/get_next_line.c.i: cmake_force
@@ -1021,7 +1216,7 @@ CMakeFiles/md5.dir/libft/get_next_line.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/get_word_len.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/get_word_len.c.o: ../libft/get_word_len.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building C object CMakeFiles/md5.dir/libft/get_word_len.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_90) "Building C object CMakeFiles/md5.dir/libft/get_word_len.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/get_word_len.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/get_word_len.c
 
 CMakeFiles/md5.dir/libft/get_word_len.c.i: cmake_force
@@ -1034,7 +1229,7 @@ CMakeFiles/md5.dir/libft/get_word_len.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/is_lower_letter.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/is_lower_letter.c.o: ../libft/is_lower_letter.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Building C object CMakeFiles/md5.dir/libft/is_lower_letter.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_91) "Building C object CMakeFiles/md5.dir/libft/is_lower_letter.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/is_lower_letter.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/is_lower_letter.c
 
 CMakeFiles/md5.dir/libft/is_lower_letter.c.i: cmake_force
@@ -1047,7 +1242,7 @@ CMakeFiles/md5.dir/libft/is_lower_letter.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/is_upper_letter.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/is_upper_letter.c.o: ../libft/is_upper_letter.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building C object CMakeFiles/md5.dir/libft/is_upper_letter.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_92) "Building C object CMakeFiles/md5.dir/libft/is_upper_letter.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/is_upper_letter.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/is_upper_letter.c
 
 CMakeFiles/md5.dir/libft/is_upper_letter.c.i: cmake_force
@@ -1060,7 +1255,7 @@ CMakeFiles/md5.dir/libft/is_upper_letter.c.s: cmake_force
 
 CMakeFiles/md5.dir/libft/is_whitespace.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/libft/is_whitespace.c.o: ../libft/is_whitespace.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_78) "Building C object CMakeFiles/md5.dir/libft/is_whitespace.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_93) "Building C object CMakeFiles/md5.dir/libft/is_whitespace.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/libft/is_whitespace.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/libft/is_whitespace.c
 
 CMakeFiles/md5.dir/libft/is_whitespace.c.i: cmake_force
@@ -1073,7 +1268,7 @@ CMakeFiles/md5.dir/libft/is_whitespace.c.s: cmake_force
 
 CMakeFiles/md5.dir/srcs/endian.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/srcs/endian.c.o: ../srcs/endian.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_79) "Building C object CMakeFiles/md5.dir/srcs/endian.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_94) "Building C object CMakeFiles/md5.dir/srcs/endian.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/srcs/endian.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/srcs/endian.c
 
 CMakeFiles/md5.dir/srcs/endian.c.i: cmake_force
@@ -1086,7 +1281,7 @@ CMakeFiles/md5.dir/srcs/endian.c.s: cmake_force
 
 CMakeFiles/md5.dir/srcs/ft_md5.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/srcs/ft_md5.c.o: ../srcs/ft_md5.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Building C object CMakeFiles/md5.dir/srcs/ft_md5.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_95) "Building C object CMakeFiles/md5.dir/srcs/ft_md5.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/srcs/ft_md5.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/srcs/ft_md5.c
 
 CMakeFiles/md5.dir/srcs/ft_md5.c.i: cmake_force
@@ -1099,7 +1294,7 @@ CMakeFiles/md5.dir/srcs/ft_md5.c.s: cmake_force
 
 CMakeFiles/md5.dir/srcs/ft_md5_dispatch.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/srcs/ft_md5_dispatch.c.o: ../srcs/ft_md5_dispatch.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_81) "Building C object CMakeFiles/md5.dir/srcs/ft_md5_dispatch.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_96) "Building C object CMakeFiles/md5.dir/srcs/ft_md5_dispatch.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/srcs/ft_md5_dispatch.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/srcs/ft_md5_dispatch.c
 
 CMakeFiles/md5.dir/srcs/ft_md5_dispatch.c.i: cmake_force
@@ -1112,7 +1307,7 @@ CMakeFiles/md5.dir/srcs/ft_md5_dispatch.c.s: cmake_force
 
 CMakeFiles/md5.dir/srcs/ft_md5_process.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/srcs/ft_md5_process.c.o: ../srcs/ft_md5_process.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Building C object CMakeFiles/md5.dir/srcs/ft_md5_process.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_97) "Building C object CMakeFiles/md5.dir/srcs/ft_md5_process.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/srcs/ft_md5_process.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/srcs/ft_md5_process.c
 
 CMakeFiles/md5.dir/srcs/ft_md5_process.c.i: cmake_force
@@ -1123,9 +1318,22 @@ CMakeFiles/md5.dir/srcs/ft_md5_process.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/md5.dir/srcs/ft_md5_process.c.s"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /nfs/2019/s/sako/Desktop/cadet/try/md5/srcs/ft_md5_process.c -o CMakeFiles/md5.dir/srcs/ft_md5_process.c.s
 
+CMakeFiles/md5.dir/srcs/ft_sha256.c.o: CMakeFiles/md5.dir/flags.make
+CMakeFiles/md5.dir/srcs/ft_sha256.c.o: ../srcs/ft_sha256.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_98) "Building C object CMakeFiles/md5.dir/srcs/ft_sha256.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/srcs/ft_sha256.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/srcs/ft_sha256.c
+
+CMakeFiles/md5.dir/srcs/ft_sha256.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/md5.dir/srcs/ft_sha256.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /nfs/2019/s/sako/Desktop/cadet/try/md5/srcs/ft_sha256.c > CMakeFiles/md5.dir/srcs/ft_sha256.c.i
+
+CMakeFiles/md5.dir/srcs/ft_sha256.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/md5.dir/srcs/ft_sha256.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /nfs/2019/s/sako/Desktop/cadet/try/md5/srcs/ft_sha256.c -o CMakeFiles/md5.dir/srcs/ft_sha256.c.s
+
 CMakeFiles/md5.dir/srcs/main.c.o: CMakeFiles/md5.dir/flags.make
 CMakeFiles/md5.dir/srcs/main.c.o: ../srcs/main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_83) "Building C object CMakeFiles/md5.dir/srcs/main.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_99) "Building C object CMakeFiles/md5.dir/srcs/main.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/srcs/main.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/srcs/main.c
 
 CMakeFiles/md5.dir/srcs/main.c.i: cmake_force
@@ -1136,8 +1344,36 @@ CMakeFiles/md5.dir/srcs/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/md5.dir/srcs/main.c.s"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /nfs/2019/s/sako/Desktop/cadet/try/md5/srcs/main.c -o CMakeFiles/md5.dir/srcs/main.c.s
 
+CMakeFiles/md5.dir/srcs/read.c.o: CMakeFiles/md5.dir/flags.make
+CMakeFiles/md5.dir/srcs/read.c.o: ../srcs/read.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_100) "Building C object CMakeFiles/md5.dir/srcs/read.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/md5.dir/srcs/read.c.o   -c /nfs/2019/s/sako/Desktop/cadet/try/md5/srcs/read.c
+
+CMakeFiles/md5.dir/srcs/read.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/md5.dir/srcs/read.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /nfs/2019/s/sako/Desktop/cadet/try/md5/srcs/read.c > CMakeFiles/md5.dir/srcs/read.c.i
+
+CMakeFiles/md5.dir/srcs/read.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/md5.dir/srcs/read.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /nfs/2019/s/sako/Desktop/cadet/try/md5/srcs/read.c -o CMakeFiles/md5.dir/srcs/read.c.s
+
 # Object files for target md5
 md5_OBJECTS = \
+"CMakeFiles/md5.dir/ft_printf/srcs/colors.c.o" \
+"CMakeFiles/md5.dir/ft_printf/srcs/ft_binaryformat.c.o" \
+"CMakeFiles/md5.dir/ft_printf/srcs/ft_charformat.c.o" \
+"CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flag_char.c.o" \
+"CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flag_float.c.o" \
+"CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flag_hex.c.o" \
+"CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flags.c.o" \
+"CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flags_int.c.o" \
+"CMakeFiles/md5.dir/ft_printf/srcs/ft_convert.c.o" \
+"CMakeFiles/md5.dir/ft_printf/srcs/ft_floatformat.c.o" \
+"CMakeFiles/md5.dir/ft_printf/srcs/ft_intformat.c.o" \
+"CMakeFiles/md5.dir/ft_printf/srcs/ft_parameters.c.o" \
+"CMakeFiles/md5.dir/ft_printf/srcs/ft_printf.c.o" \
+"CMakeFiles/md5.dir/ft_printf/srcs/ft_printfuncs.c.o" \
+"CMakeFiles/md5.dir/ft_printf/srcs/ft_width_precision.c.o" \
 "CMakeFiles/md5.dir/libft/check_num_length.c.o" \
 "CMakeFiles/md5.dir/libft/count_words_in_str.c.o" \
 "CMakeFiles/md5.dir/libft/ft_atoi.c.o" \
@@ -1220,11 +1456,28 @@ md5_OBJECTS = \
 "CMakeFiles/md5.dir/srcs/ft_md5.c.o" \
 "CMakeFiles/md5.dir/srcs/ft_md5_dispatch.c.o" \
 "CMakeFiles/md5.dir/srcs/ft_md5_process.c.o" \
-"CMakeFiles/md5.dir/srcs/main.c.o"
+"CMakeFiles/md5.dir/srcs/ft_sha256.c.o" \
+"CMakeFiles/md5.dir/srcs/main.c.o" \
+"CMakeFiles/md5.dir/srcs/read.c.o"
 
 # External object files for target md5
 md5_EXTERNAL_OBJECTS =
 
+md5: CMakeFiles/md5.dir/ft_printf/srcs/colors.c.o
+md5: CMakeFiles/md5.dir/ft_printf/srcs/ft_binaryformat.c.o
+md5: CMakeFiles/md5.dir/ft_printf/srcs/ft_charformat.c.o
+md5: CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flag_char.c.o
+md5: CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flag_float.c.o
+md5: CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flag_hex.c.o
+md5: CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flags.c.o
+md5: CMakeFiles/md5.dir/ft_printf/srcs/ft_check_flags_int.c.o
+md5: CMakeFiles/md5.dir/ft_printf/srcs/ft_convert.c.o
+md5: CMakeFiles/md5.dir/ft_printf/srcs/ft_floatformat.c.o
+md5: CMakeFiles/md5.dir/ft_printf/srcs/ft_intformat.c.o
+md5: CMakeFiles/md5.dir/ft_printf/srcs/ft_parameters.c.o
+md5: CMakeFiles/md5.dir/ft_printf/srcs/ft_printf.c.o
+md5: CMakeFiles/md5.dir/ft_printf/srcs/ft_printfuncs.c.o
+md5: CMakeFiles/md5.dir/ft_printf/srcs/ft_width_precision.c.o
 md5: CMakeFiles/md5.dir/libft/check_num_length.c.o
 md5: CMakeFiles/md5.dir/libft/count_words_in_str.c.o
 md5: CMakeFiles/md5.dir/libft/ft_atoi.c.o
@@ -1307,10 +1560,12 @@ md5: CMakeFiles/md5.dir/srcs/endian.c.o
 md5: CMakeFiles/md5.dir/srcs/ft_md5.c.o
 md5: CMakeFiles/md5.dir/srcs/ft_md5_dispatch.c.o
 md5: CMakeFiles/md5.dir/srcs/ft_md5_process.c.o
+md5: CMakeFiles/md5.dir/srcs/ft_sha256.c.o
 md5: CMakeFiles/md5.dir/srcs/main.c.o
+md5: CMakeFiles/md5.dir/srcs/read.c.o
 md5: CMakeFiles/md5.dir/build.make
 md5: CMakeFiles/md5.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_84) "Linking C executable md5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/nfs/2019/s/sako/Desktop/cadet/try/md5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_101) "Linking C executable md5"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/md5.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
